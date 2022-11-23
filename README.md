@@ -1,2 +1,2 @@
 # ChatRoom
-A simple chat room made with .....
+A simple chat room made with python 
